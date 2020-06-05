@@ -9,5 +9,5 @@ Manages the evaluation of multiple machine learning models from multiple teams.
 * present all results on web page
 
 ## Example
-Given a *challenge* such as an image classifier, each team may submi
+Given a *challenge* such as an image classifier, each team may submit multiple models.
 # ML_Eval
